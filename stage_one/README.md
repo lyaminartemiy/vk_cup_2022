@@ -1,24 +1,24 @@
-# ML квалификация - Этап №1
+# ML qualification - Stage #1
 
-Сообщества ВКонтакте могут принадлежать одной из нескольких заранее заданных категорий. Но даже среди спортивных сообществ есть достаточно сильное разделение по тематикам! Одни и те же авторы могут писать только об одном виде спорта или сразу о большом количестве.
+VKontakte communities can belong to one of several predefined categories. But even among the sports communities there is a fairly strong division by subject! The same authors can write only about one sport or about a large number at once.
 
-По заданному набору постов определим тематику — какой именно вид спорта обсуждается в выбранном сообществе?
+According to a given set of posts, we will determine the topic — what kind of sport is being discussed in the selected community?
 
-**Список доступных категорий**:
+**List of available categories**:
 - athletics;
 - autosport;
 - basketball;
-- boardgames;
+- board games;
 - esport;
 - extreme;
 - football;
 - hockey;
 - martial_arts;
-- motosport;
+- motorsport;
 - tennis;
 - volleyball;
 - winter_sport.
 
-**Метрика**:
-- За каждый правильный ответ +1;
-- За каждый неправильный ответ −1.
+**Metric**:
+- For each correct answer +1;
+- For every wrong answer -1.
